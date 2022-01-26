@@ -1,5 +1,5 @@
 
-path: ../../rtis_lab/data/MapillaryTrafficSigns/yolov5_partial_annotations
+path: ../../rtis_lab/data/MapillaryTrafficSigns/yolov5
 train: train/images
 val: val/images
 
